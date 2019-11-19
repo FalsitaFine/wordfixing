@@ -4,4 +4,4 @@
 # This is a very early version.
 # Usage: python3 fixing.py "testbench"
 
-
+# Training sets used in this project: here ---> https://github.com/FalsitaFine/info_collect
