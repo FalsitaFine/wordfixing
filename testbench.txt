@@ -1,0 +1,1 @@
+A common LSTM unit is composed of a cell an input gate an output gate and a forget gate The cell remembers values over arbitrary time intervals and the three gates regulate the flow of information into and out of the cell
