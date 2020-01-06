@@ -14,9 +14,14 @@ Fixing result: see sample_out.png.
 Four different models are used in this demo:
 
 N-gram model;
+
 LSTM model;
+
 (Bi-directional) N-gram model;
+
 (Bi-directional) LSTM model;
+
+Where I believe the bi-directional designs are quite original.
 
 Further design might combine these models via some vote algorithm.
 
